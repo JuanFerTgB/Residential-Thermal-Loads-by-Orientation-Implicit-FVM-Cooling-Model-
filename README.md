@@ -60,4 +60,4 @@ MIT.
 
 ## Cita sugerida
 
-Juan Fer, “Orientation-Aware Residential Cooling Loads (1D Implicit FVM)”, 2025.
+Juan Riascos, Thomas Martinod, Fernando Londoño, “Orientation-Aware Residential Cooling Loads (1D Implicit FVM)”, 2025.
